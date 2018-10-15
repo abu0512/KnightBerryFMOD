@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{9a1cbc19-b680-47e1-9bbb-c00c35ff19fd}">
+        <property name="name">
+            <value>몬스터 소환될 때</value>
+        </property>
+        <relationship name="folder">
+            <destination>{2bc6de85-3e14-4510-ad48-fea89ada35c0}</destination>
+        </relationship>
+    </object>
+</objects>

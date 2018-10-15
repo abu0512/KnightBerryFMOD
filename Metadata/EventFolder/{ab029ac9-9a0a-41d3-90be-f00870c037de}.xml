@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{ab029ac9-9a0a-41d3-90be-f00870c037de}">
+        <property name="name">
+            <value>고블린 자폭</value>
+        </property>
+        <relationship name="folder">
+            <destination>{64bf8bfc-fc16-4178-985a-6851b200d5fe}</destination>
+        </relationship>
+    </object>
+</objects>

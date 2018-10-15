@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{0d9a04ee-4b02-45b7-a15c-1f7a76160fcc}">
+        <property name="name">
+            <value>보스순간이동시</value>
+        </property>
+        <relationship name="folder">
+            <destination>{571c5e17-a7f8-4ad5-8695-2469dabdfed2}</destination>
+        </relationship>
+    </object>
+</objects>
