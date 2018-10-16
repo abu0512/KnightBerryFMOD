@@ -213,7 +213,7 @@
             <value>0.17999999999999999</value>
         </property>
         <property name="length">
-            <value>0.49246298551959211</value>
+            <value>0.56000000000000005</value>
         </property>
         <relationship name="fadeOutCurve">
             <destination>{5a93ac9a-6d44-423c-adae-6b8059f63a41}</destination>
@@ -349,7 +349,7 @@
     </object>
     <object class="AutomationPoint" id="{2f114761-f4cf-483c-8897-5189b419a4be}">
         <property name="position">
-            <value>0.17999999999999999</value>
+            <value>0.24753701448040794</value>
         </property>
         <property name="value">
             <value>1</value>
@@ -360,7 +360,7 @@
     </object>
     <object class="AutomationPoint" id="{da2a7c94-d187-42c4-83d8-b6f1a6fe0f74}">
         <property name="position">
-            <value>0.67246298551959227</value>
+            <value>0.74000000000000021</value>
         </property>
         <property name="value">
             <value>0</value>

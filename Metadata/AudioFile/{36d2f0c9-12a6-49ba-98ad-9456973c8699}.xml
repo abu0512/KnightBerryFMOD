@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{36d2f0c9-12a6-49ba-98ad-9456973c8699}">
+        <property name="assetPath">
+            <value>boss_explode.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>4.2542499999999999</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{81bd66c4-6b88-4a2f-9ab5-2fd641e7186e}</destination>
+        </relationship>
+    </object>
+</objects>

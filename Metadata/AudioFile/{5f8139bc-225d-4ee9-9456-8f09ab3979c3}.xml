@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{5f8139bc-225d-4ee9-9456-8f09ab3979c3}">
+        <property name="assetPath">
+            <value>Purple Planet Music - Cinematic - The Chase (보스).mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>93.46612244897959</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{81bd66c4-6b88-4a2f-9ab5-2fd641e7186e}</destination>
+        </relationship>
+    </object>
+</objects>

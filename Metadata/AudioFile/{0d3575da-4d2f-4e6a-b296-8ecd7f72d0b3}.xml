@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{0d3575da-4d2f-4e6a-b296-8ecd7f72d0b3}">
+        <property name="assetPath">
+            <value>tanker_rush.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.5682291666666666</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{81bd66c4-6b88-4a2f-9ab5-2fd641e7186e}</destination>
+        </relationship>
+    </object>
+</objects>
