@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="EventFolder" id="{ef216422-ebe0-4302-aa1b-c87c52bfdeb3}">
         <property name="name">
-            <value>고블린 광역힐</value>
+            <value>heal</value>
         </property>
         <relationship name="folder">
             <destination>{10a9fd71-94f9-42e6-939a-5d958c998e63}</destination>
